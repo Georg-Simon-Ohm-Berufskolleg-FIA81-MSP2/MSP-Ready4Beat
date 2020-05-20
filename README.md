@@ -13,7 +13,7 @@ Group members:
 
 * Philip Jacobs
 * Philipp Scheffler
-* Mohamad Mhritani
+* Mohamad mhritani
 * Deepika Kapoor
 * Aymane El-Mouden
 
